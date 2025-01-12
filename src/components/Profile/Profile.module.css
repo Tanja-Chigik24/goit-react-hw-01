@@ -1,0 +1,81 @@
+.user {
+  width: 778px;
+  height: 809px;
+  border: 3px solid #070707;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.userAvatar {
+  display: block;
+  margin: auto;
+}
+.userImg {
+  border-radius: 50%;
+  margin-left: 160px;
+  margin-top: 16px;
+  width: 440px;
+  height: 440px;
+  background-color: rgb(124, 120, 120);
+}
+
+.userName {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 48px;
+  text-align: center;
+}
+.userTag {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: light dark;
+  font-size: 44px;
+  text-align: center;
+}
+
+.userLocation {
+  margin-top: 10px;
+  margin-bottom: 4px;
+  color: light dark;
+  font-size: 44px;
+  text-align: center;
+}
+
+.userInfo {
+  display: flex;
+  background-color: rgb(219, 211, 211);
+  border-radius: 8px;
+  margin: 0 auto;
+  width: 777px;
+  height: 130px;
+  border: 1px solid #070707;
+}
+.followers {
+  display: block;
+  width: 272px;
+  border: 1px solid #070707;
+  font-size: 44px;
+  text-align: center;
+}
+.views {
+  display: block;
+  width: 250px;
+  border: 1px solid #070707;
+  font-size: 44px;
+  text-align: center;
+}
+.likes {
+  display: block;
+  width: 250px;
+  border: 1px solid #070707;
+  font-size: 44px;
+  text-align: center;
+}
+.spanName {
+  display: block;
+}
+.spanInfo {
+  font-weight: 600;
+}
