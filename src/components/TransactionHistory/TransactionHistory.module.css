@@ -5,11 +5,11 @@
   border: 3px solid rgb(14, 13, 14);
 }
 
-.tbody:nth-child(odd) {
+.tr:nth-child(odd) {
   background: #aaa7a9;
 }
 
-.tbody:nth-child(even) {
+.tr:nth-child(even) {
   background: #f8f6f8;
 }
 
